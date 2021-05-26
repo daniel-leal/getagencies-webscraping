@@ -75,8 +75,8 @@ namespace Getagency
                         if (props.ContainsKey("Bairro"))
                             bairro = props["Bairro"];
 
-                        if (props.ContainsKey("Cep"))
-                            cep = props["Cep"];
+                        if (props.ContainsKey("CEP"))
+                            cep = props["CEP"];
 
                         if (props.ContainsKey("Horário de Atendimento"))
                         {
